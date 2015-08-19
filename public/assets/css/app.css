@@ -1,0 +1,22 @@
+.container {
+    padding-top: 50px;
+}
+a, a:hover{
+    text-decoration: none;
+}
+.center{
+    text-align: center;
+}
+small{
+    font-size: 13px !important;
+}
+.pagination{
+    text-align: center;
+    padding-bottom:10px;
+}
+.pagination a{
+    padding: 2px 5px;
+}
+.pagination .current-page{
+    font-weight: bold;
+}
