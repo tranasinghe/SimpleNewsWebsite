@@ -1,13 +1,13 @@
 
 Synopsis
 ---------
-This is a very basic MVC web application. MVC layout is a custom library which is developed by myself and it has essencial set of classes only. MVC library could find under `Lib` directory. 
+This is a very basic MVC web application. MVC layout is a custom library which is developed by myself and it has essencial set of classes only. MVC library could find under `Lib` directory.
 
 I have used Bootsratp and JQuery for the frontend.
 
 Installation
 ------------
-Database backup file in `database/news_site.sql`. Then setup database connection in `App/Config/database.php`. Once configureation done create a vertualhost on apache webserver
+Restore the database, db backup file in `database/news_site.sql`. Then setup database connection in `App/Config/database.php`. Once configureation are done create a vertualhost on apache webserver
 
 
 `<VirtualHost *:80>`
