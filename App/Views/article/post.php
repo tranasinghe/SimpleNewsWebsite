@@ -10,7 +10,7 @@
                 </div>
                 <div class="form-group">
                     <label>Title <span>*</span></label>
-                    <input type="text" class="form-control" name="title" required=""/>
+                    <input type="text" class="form-control" name="title" required="" size="100"/>
                 </div>
                 <div class="form-group">
                     <label>New Content <span>*</span></label>
