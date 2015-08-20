@@ -5,11 +5,11 @@ This is a very basic MVC web application. MVC layout is a custom library which i
 
 I have used Bootsratp and JQuery for the frontend.
 
-Required Tools
---------
-Apache 2.4.7
-MySQL 5.5
-PHP 5.5.9
+Server Requirements
+----------
+Apache 2.4.7<br/>
+MySQL 5.5<br/>
+PHP 5.5.9<br/>
 
 How to Setup
 ------------
