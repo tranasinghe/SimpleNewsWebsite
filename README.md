@@ -49,10 +49,10 @@ Restore the database, db backup file in `database/news_site.sql`. Then setup dat
 
 Further Improvements
 -------
-FormValidation
-CSRF Validation
-Exeception Handling
-Custom Error Pages (404, 500 etc..)
-Impore Models to follow convention like
-Implemet router class to construct seo frendly urls
+FormValidation<br/>
+CSRF Validation<br/>
+Exeception Handling<br/>
+Custom Error Pages (404, 500 etc..)<br/>
+Impore Models to follow convention like<br/>
+Implemet router class to construct seo frendly urls<br/>
 
