@@ -3,7 +3,9 @@ Synopsis
 ---------
 This is a very basic MVC web application. MVC layout is a custom library which is developed by myself and it has essencial set of classes only. MVC library could find under `Lib` directory.
 
-I have used Bootsratp and JQuery for the frontend.
+I have used Bootsratp and JQuery for the frontend. 
+
+I have attached architecral diagram whicth dipict the structrue of the web application.
 
 Server Requirements
 ----------
