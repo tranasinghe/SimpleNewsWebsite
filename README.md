@@ -45,7 +45,7 @@ Restore the database, db backup file in `database/news_site.sql`. Then setup dat
     </Directory>
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
-</VirtualHost>`
+`</VirtualHost>`
 
 Further Improvements
 -------
