@@ -49,11 +49,11 @@ Restore the database, db backup file in `database/news_site.sql`. Then setup dat
 
 Further Improvements
 -------
-FormValidation<br/>
-CSRF Validation<br/>
-Exeception Handling<br/>
-Custom Error Pages (404, 500 etc..)<br/>
-Improve Models to follow convention to find relared relation in the database<br/>
-Implement Caching mechanisam(use APC to cache view contenst, memcache or rediss to cache data in models to reduce db calls)
-Implemet router class to construct seo frendly urls<br/>
+1. FormValidation<br/>
+2. CSRF Validation<br/>
+3. Exeception Handling<br/>
+4. Custom Error Pages (404, 500 etc..)<br/>
+5. Improve Models to follow convention to find relared relation in the database<br/>
+6. Implement Caching mechanisam(use APC to cache view contenst, memcache or rediss to cache data in models to reduce db calls)<br/>
+7. Implemet router class to construct seo frendly urls<br/>
 
