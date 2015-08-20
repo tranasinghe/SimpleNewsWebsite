@@ -5,7 +5,7 @@ This is a very basic MVC web application. MVC layout is a custom library which i
 
 I have used Bootsratp and JQuery for the frontend. 
 
-I have attached architecral diagram whicth dipict the structrue of the web application.
+I have attached architectural diagram whicth depict the structrue of the web application.
 
 Server Requirements
 ----------
