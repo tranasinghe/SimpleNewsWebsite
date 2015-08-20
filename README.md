@@ -5,8 +5,15 @@ This is a very basic MVC web application. MVC layout is a custom library which i
 
 I have used Bootsratp and JQuery for the frontend.
 
-Installation
+Required Tools
+--------
+Apache 2.4.7
+MySQL 5.5
+PHP 5.5.9
+
+How to Setup
 ------------
+
 Restore the database, db backup file in `database/news_site.sql`. Then setup database connection in `App/Config/database.php`. Once configureation are done create a vertualhost on apache webserver
 
 
