@@ -47,4 +47,12 @@ Restore the database, db backup file in `database/news_site.sql`. Then setup dat
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>`
 
+Further Improvements
+-------
+FormValidation
+CSRF Validation
+Exeception Handling
+Custom Error Pages (404, 500 etc..)
+Impore Models to follow convention like
+Implemet router class to construct seo frendly urls
 
