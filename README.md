@@ -53,6 +53,7 @@ FormValidation<br/>
 CSRF Validation<br/>
 Exeception Handling<br/>
 Custom Error Pages (404, 500 etc..)<br/>
-Impore Models to follow convention like<br/>
+Improve Models to follow convention to find relared relation in the database<br/>
+Implement Caching mechanisam(use APC to cache view contenst, memcache or rediss to cache data in models to reduce db calls)
 Implemet router class to construct seo frendly urls<br/>
 
