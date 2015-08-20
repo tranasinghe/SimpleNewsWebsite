@@ -16,7 +16,7 @@ PHP 5.5.9<br/>
 How to Setup
 ------------
 
-Restore the database, db backup file in `database/news_site.sql`. Then setup database connection in `App/Config/database.php`. Once configureation are done create a vertualhost on apache webserver
+Restore the database, db backup file in `database/news_site.sql`. Then setup database connection in `App/Config/database.php`. Once configurations are done create a virtualhost on apache webserver as below.
 
 
 `<VirtualHost *:80>`
@@ -53,6 +53,6 @@ Further Improvements
 2. CSRF Validation<br/>
 3. Exception Handling<br/>
 4. Custom Error Pages (404, 500 etc..)<br/>
-5. Improve Models to follow convention to find related relation in the database<br/>
+5. Improve Models to follow a convention to find related relation in the database<br/>
 6. Implement Caching mechanism(use APC to cache view contents, memcache or rediss to cache data in models to reduce db calls)<br/>
 7. Implement router class to construct SEO friendly urls<br/>
